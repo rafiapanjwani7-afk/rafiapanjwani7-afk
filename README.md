@@ -1,6 +1,8 @@
+ 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/114544016/your-uploaded-banner.png" alt="Rafia Panjwani | Frontend Developer" width="800"/>
-</p>
+   <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" /> 
+</p> 
+
 <h1 align="center">Hi 👋, I'm Rafia Panjwani</h1>
 <h3 align="center">🚀 Passionate MERN Stack Developer from Pakistan 🇵🇰</h3>
 
@@ -8,15 +10,19 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Web+Developer;Open+Source+Contributor;Always+Learning&center=true&width=500&height=45&color=0844a3&vCenter=true&size=22">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img align="right" alt="coding" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
+</p> -->
+<p align="right">
+  <img alt="coding" src="assets/modern-coding.gif" width="300">
 </p>
 
 ---
 
 ## 🙋‍♀️ About Me
 
-- 🌱 Currently learning **Web 3.0 & Blockchain**  
+- 🌱 Currently learning **Web 3.0 & Blockchain**
+- 🎯 Open to Internships **Junior Front-End roles**
 - 👯 Looking to collaborate on **Open Source Projects**  
 - 📫 Reach me at: **rafiapanjwani7@gmail.com**  
 - ⚡ Fun fact: **I love coding and problem solving 😄**
@@ -38,17 +44,32 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-## 📊 GitHub Stats
+---
+
+## 📈 GitHub Contribution Chart
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rafiapanjwani7-afk&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiapanjwani7-afk&layout=compact&theme=tokyonight"/>
+  <img src="https://ghchart.rshah.org/0e75b6/rafiapanjwani7-afk" alt="Rafia's GitHub Chart" width="100%" />
 </p>
+
+---
+
+## 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernamerafiapanjwani7-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafiapanjwani7-afk&theme=tokyonight" alt="Rafia's GitHub Streak" />
 </p>
 
+---
+
+## 💼 Portfolio / Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Portfolio Website** | *HTML, CSS, Bootstrap* | Fully responsive personal portfolio with modern layout |
+|**Landing Pages Collection** |  *Tailwind CSS* |  Clean UI sections, cards, and hero layouts |
+
+> Replace the links above with your actual project repos if needed.
 
 ---
 
