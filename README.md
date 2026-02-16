@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/114544016/your-uploaded-banner.png" alt="Rafia Panjwani | Frontend Developer" width="800"/>
+</p>
 <h1 align="center">Hi 👋, I'm Rafia Panjwani</h1>
 <h3 align="center">🚀 Passionate MERN Stack Developer from Pakistan 🇵🇰</h3>
 
@@ -6,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
+  <img align="right" alt="coding" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
 </p>
 
 ---
@@ -15,7 +18,7 @@
 
 - 🌱 Currently learning **Web 3.0 & Blockchain**  
 - 👯 Looking to collaborate on **Open Source Projects**  
-- 📫 Reach me at: **umrabadar55@gmail.com**  
+- 📫 Reach me at: **rafiapanjwani7@gmail.com**  
 - ⚡ Fun fact: **I love coding and problem solving 😄**
 
 ---
@@ -30,29 +33,22 @@
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
 ### 🛠 Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
-![Render](https://img.shields.io/badge/Render-7F1DFE?style=for-the-badge&logo=render&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-0A74DA?style=for-the-badge&logo=hostinger&logoColor=white)
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rafiapanjwani7-afk&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiapanjwani7-afk&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rafiapanjwani7-afk&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiapanjwani7-afk&layout=compact&theme=tokyonight"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernamerafiapanjwani7-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
 
 ---
 
