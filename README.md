@@ -4,18 +4,16 @@
 </p> 
 
 <h1 align="center">Hi 👋, I'm Rafia Panjwani</h1>
-<h3 align="center">🚀 Passionate MERN Stack Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">🚀 Passionate frontend Developer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Web+Developer;Open+Source+Contributor;Always+Learning&center=true&width=500&height=45&color=0844a3&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=frontend+Developer;Web+Developer;Open+Source+Contributor;Always+Learning&center=true&width=500&height=45&color=0844a3&vCenter=true&size=22">
 </p>
 
-<!-- <p align="center">
-  <img align="right" alt="coding" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
-</p> -->
-<p align="right">
-  <img alt="coding" src="assets/modern-coding.gif" width="300">
-</p>
+// <p align="center">
+  <img align="right"marigntop="x" alt="coding" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
+</p> //
+
 
 ---
 
@@ -32,27 +30,17 @@
 ## 🚀 Tech Stack
 
 ### 💻 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,typescript" />
+</p>
 
 ### 🛠 Tools & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
----
-
-## 📈 GitHub Contribution Chart
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/rafiapanjwani7-afk" alt="Rafia's GitHub Chart" width="100%" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,netlify" />
 </p>
 
 ---
+
 
 ## 📊 GitHub Streak
 
