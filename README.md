@@ -10,9 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=frontend+Developer;Web+Developer;Open+Source+Contributor;Always+Learning&center=true&width=500&height=45&color=0844a3&vCenter=true&size=22">
 </p>
 
-// <p align="center">
-  <img align="right"marigntop="x" alt="coding" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
-</p> //
+
 
 
 ---
