@@ -16,6 +16,7 @@
 ---
 
 ## 🙋‍♀️ About Me
+<img align="right" alt="coding" width="300" height="150" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" style="margin-top:10px; margin-left:15px; margin-bottom:10px;">
 
 - 🌱 Currently learning **Web 3.0 & Blockchain**
 - 🎯 Open to Internships **Junior Front-End roles**
@@ -24,8 +25,6 @@
 - ⚡ Fun fact: **I love coding and problem solving 😄**
 
 ---
-
-## 🚀 Tech Stack
 
 ### 💻 Frontend
 <p>
@@ -54,8 +53,6 @@
 |---------|-------------|------|
 | **Portfolio Website** | *HTML, CSS, Bootstrap* | Fully responsive personal portfolio with modern layout |
 |**Landing Pages Collection** |  *Tailwind CSS* |  Clean UI sections, cards, and hero layouts |
-
-> Replace the links above with your actual project repos if needed.
 
 ---
 
